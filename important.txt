@@ -1,0 +1,27 @@
+IMPORTANT NOTES BEFORE INSTALLATION
+
+The Python version required to run Reboot has to be 3.6 or earlier, 3.7 will not work.
+Reboot can only run on Windows right now due to the modules being used.
+
+PYTHON MODULES REQUIRED TO RUN REBOOT
+
+You need the following modules:
+PyAudio
+Pywin32
+Requests
+SpeechRecognition
+
+These can be installed by going into Command Prompt and typing 'pip install' and module required.
+
+RUNNING CONFIG.PY
+
+Before starting Reboot, run the configuration file. This takes in your name, city, email address and password. For your location, type in the city's full name, and as a warning, some cities may not be supported by the weather feature.
+To see what cities are supported, consult OpenWeatherAPI.
+
+Before you can use your email to send messages, you will need to disable security features on your address. While Reboot is safe and will not harm it, I suggest using a throwaway email address, as it won't
+matter that much if your account is compromised.
+
+FINAL NOTE
+Reboot needs new features, so if you want to, feel free to make some!
+Go wild:)
+
