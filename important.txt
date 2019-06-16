@@ -10,6 +10,7 @@ PyAudio
 Pywin32
 Requests
 SpeechRecognition
+PyDictionary
 
 These can be installed by going into Command Prompt and typing 'pip install' and module required.
 
