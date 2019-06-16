@@ -5,7 +5,6 @@ from tkinter import *
 import smtplib, ssl
 import speech_recognition as sr
 from PyDictionary import PyDictionary
-from googlesearch import *
 import webbrowser
 
 i = 1
